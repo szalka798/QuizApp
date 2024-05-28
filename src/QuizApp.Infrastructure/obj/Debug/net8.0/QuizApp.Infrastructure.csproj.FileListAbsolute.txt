@@ -1,0 +1,17 @@
+C:\Users\xszal\Desktop\QuizApp\src\QuizApp.Infrastructure\bin\Debug\net8.0\QuizApp.Infrastructure.deps.json
+C:\Users\xszal\Desktop\QuizApp\src\QuizApp.Infrastructure\bin\Debug\net8.0\QuizApp.Infrastructure.dll
+C:\Users\xszal\Desktop\QuizApp\src\QuizApp.Infrastructure\bin\Debug\net8.0\QuizApp.Infrastructure.pdb
+C:\Users\xszal\Desktop\QuizApp\src\QuizApp.Infrastructure\bin\Debug\net8.0\QuizApp.Application.dll
+C:\Users\xszal\Desktop\QuizApp\src\QuizApp.Infrastructure\bin\Debug\net8.0\QuizApp.Core.dll
+C:\Users\xszal\Desktop\QuizApp\src\QuizApp.Infrastructure\bin\Debug\net8.0\QuizApp.Application.pdb
+C:\Users\xszal\Desktop\QuizApp\src\QuizApp.Infrastructure\bin\Debug\net8.0\QuizApp.Core.pdb
+C:\Users\xszal\Desktop\QuizApp\src\QuizApp.Infrastructure\obj\Debug\net8.0\QuizApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\xszal\Desktop\QuizApp\src\QuizApp.Infrastructure\obj\Debug\net8.0\QuizApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xszal\Desktop\QuizApp\src\QuizApp.Infrastructure\obj\Debug\net8.0\QuizApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\xszal\Desktop\QuizApp\src\QuizApp.Infrastructure\obj\Debug\net8.0\QuizApp.Infrastructure.AssemblyInfo.cs
+C:\Users\xszal\Desktop\QuizApp\src\QuizApp.Infrastructure\obj\Debug\net8.0\QuizApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\xszal\Desktop\QuizApp\src\QuizApp.Infrastructure\obj\Debug\net8.0\QuizApp..EB38AC58.Up2Date
+C:\Users\xszal\Desktop\QuizApp\src\QuizApp.Infrastructure\obj\Debug\net8.0\QuizApp.Infrastructure.dll
+C:\Users\xszal\Desktop\QuizApp\src\QuizApp.Infrastructure\obj\Debug\net8.0\refint\QuizApp.Infrastructure.dll
+C:\Users\xszal\Desktop\QuizApp\src\QuizApp.Infrastructure\obj\Debug\net8.0\QuizApp.Infrastructure.pdb
+C:\Users\xszal\Desktop\QuizApp\src\QuizApp.Infrastructure\obj\Debug\net8.0\ref\QuizApp.Infrastructure.dll

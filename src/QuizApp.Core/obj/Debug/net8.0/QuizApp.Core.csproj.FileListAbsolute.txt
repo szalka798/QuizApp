@@ -1,0 +1,11 @@
+C:\Users\xszal\Desktop\QuizApp\src\QuizApp.Core\bin\Debug\net8.0\QuizApp.Core.deps.json
+C:\Users\xszal\Desktop\QuizApp\src\QuizApp.Core\bin\Debug\net8.0\QuizApp.Core.dll
+C:\Users\xszal\Desktop\QuizApp\src\QuizApp.Core\bin\Debug\net8.0\QuizApp.Core.pdb
+C:\Users\xszal\Desktop\QuizApp\src\QuizApp.Core\obj\Debug\net8.0\QuizApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xszal\Desktop\QuizApp\src\QuizApp.Core\obj\Debug\net8.0\QuizApp.Core.AssemblyInfoInputs.cache
+C:\Users\xszal\Desktop\QuizApp\src\QuizApp.Core\obj\Debug\net8.0\QuizApp.Core.AssemblyInfo.cs
+C:\Users\xszal\Desktop\QuizApp\src\QuizApp.Core\obj\Debug\net8.0\QuizApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\xszal\Desktop\QuizApp\src\QuizApp.Core\obj\Debug\net8.0\QuizApp.Core.dll
+C:\Users\xszal\Desktop\QuizApp\src\QuizApp.Core\obj\Debug\net8.0\refint\QuizApp.Core.dll
+C:\Users\xszal\Desktop\QuizApp\src\QuizApp.Core\obj\Debug\net8.0\QuizApp.Core.pdb
+C:\Users\xszal\Desktop\QuizApp\src\QuizApp.Core\obj\Debug\net8.0\ref\QuizApp.Core.dll
