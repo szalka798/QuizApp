@@ -30,8 +30,8 @@ public class DatabaseInitializer : IHostedService
 
         var quiz = new Quiz(QuizId.Create(), new List<Question>
         {
-            new ShortAnswerQuestion(QuestionId.Create(), "Stolica Polski", "Warszawa"),
-            new SingleChoiceQuestion(QuestionId.Create(), "Ile to 2+2", new List<SelectAnswer>()
+            new ShortAnswerQuestion(QuestionId.Create(), "The capital of Poland", "Warsaw"),
+            new SingleChoiceQuestion(QuestionId.Create(), "2+2:", new List<SelectAnswer>()
             {
                 new SelectAnswer(SelectAnswerId.Create(), "1", false),
                 new SelectAnswer(SelectAnswerId.Create(), "2", false),
